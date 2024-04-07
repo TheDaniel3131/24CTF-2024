@@ -1,0 +1,3 @@
+The “Règlement sur l’anonymisation des renseignements personnels” was published in the Gazette no 51 on December 20, 2023, on page 58771. So, the flag for this challenge would be polycyber{5877}
+
+flag: polycyber{5877}
