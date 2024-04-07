@@ -1,0 +1,9 @@
+The challenge gives a hash password (2E686C551374CC44246017CB5A1E7BFD). It is a MD5 hash and also the challenge states something about "dictionary". This quickly reminds me of that Dictionary Attack.
+
+So I run this command on my kali and ..
+
+https://imgur.com/a/GoY4A7u
+
+there is my flag..
+
+flag: polycyber{michikitolindo} 
